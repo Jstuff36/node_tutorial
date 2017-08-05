@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Jstuff36/node_tutorial#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
